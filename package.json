@@ -1,6 +1,6 @@
 {
   "name": "@nebulario/tracker-app-modal",
-  "version": "1.70.0-master",
+  "version": "1.70.0-release-pkg-app-prod",
   "description": "Base for modules in node.",
   "main": "./dist/index.js",
   "repository": "github.com:vicjicaman/tracker-app-modal.git",
